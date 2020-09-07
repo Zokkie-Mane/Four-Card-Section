@@ -34,7 +34,7 @@
     border: none;
     border-top: solid;
     border-top-color: #4BC6B9 ;
-    margin-right: 10px;
+    margin: 10px;
     border-radius: 5px;
 }
 
@@ -42,7 +42,7 @@
     border: none;
     border-top: solid;
     border-top-color: #FF8360 ;
-    margin-bottom: 1px;
+    margin: 10px;
     border-radius: 5px;
 }
 .b3{
