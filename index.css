@@ -21,7 +21,7 @@
 
 
 }
-.card-body{
+.card{
     width: 20rem;
 }
 
@@ -35,7 +35,7 @@
     border-top: solid;
     border-top-color: #4BC6B9 ;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .b2{
@@ -43,14 +43,14 @@
     border-top: solid;
     border-top-color: #FF8360 ;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 .b3{
     border: none;
     border-top: solid;
     border-top-color: #E3D985 ;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .b4{
@@ -58,7 +58,7 @@
     border-top: solid;
     border-top-color: #006992 ;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 
@@ -66,10 +66,6 @@
 @media screen and (max-width: 1200px) {
 /*.header {
     }*/
-
-	.header__body {
-		font-size: 0.8rem;
-	}
 
 	.container {
         display: flex;
